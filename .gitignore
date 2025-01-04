@@ -1,3 +1,7 @@
+# ignore artifacts and wandb in all subdirectories
+**/wandb/
+**/artifacts/
+
 # MLflow
 mlruns/
 mlartifacts/
